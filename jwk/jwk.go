@@ -1,5 +1,7 @@
 package jwk
 
+// Common key interface.
+
 import "fmt"
 
 func main() {

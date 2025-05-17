@@ -1,0 +1,1 @@
+Handles the construction, signing, and verification of JWS objects.
